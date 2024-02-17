@@ -2,7 +2,7 @@
   "dependencies": {
     "franc": "^6.2.0"
   },
-  "name": "cjs_franc",
+  "name": "cjsfranc",
   "version": "1.0.0",
   "main": "cjsfranc.js",
   "devDependencies": {},
